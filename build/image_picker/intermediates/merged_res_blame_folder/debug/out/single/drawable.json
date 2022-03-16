@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pavan/Downloads/cwsorg/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/pavan/.gradle/caches/transforms-2/files-2.1/430b0f3cf9162963ab2abaf7a55ee1d5/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pavan/Downloads/cwsorg/build/image_picker/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/pavan/.gradle/caches/transforms-2/files-2.1/430b0f3cf9162963ab2abaf7a55ee1d5/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/pavan/Downloads/cwsorg/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/pavan/.gradle/caches/transforms-2/files-2.1/430b0f3cf9162963ab2abaf7a55ee1d5/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/pavan/Downloads/cwsorg/build/image_picker/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/pavan/.gradle/caches/transforms-2/files-2.1/430b0f3cf9162963ab2abaf7a55ee1d5/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

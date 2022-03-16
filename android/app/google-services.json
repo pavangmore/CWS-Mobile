@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "293739504901",
+    "project_id": "cwsngo-b306a",
+    "storage_bucket": "cwsngo-b306a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293739504901:android:1281fad3250b258908836c",
+        "android_client_info": {
+          "package_name": "com.cwsorg.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293739504901-4amm0egf2f9586hk0m976rdjgg4s5lik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cwsorg.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "293739504901-1n2fng02k38vu8knutel5tb0p7s96emh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCyt7pjzshQRwAEANLnGsJioi973T9obo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293739504901-1n2fng02k38vu8knutel5tb0p7s96emh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293739504901-ettb2b9ch3c84k61adjsfgnakki8laf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.cwsorg.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
